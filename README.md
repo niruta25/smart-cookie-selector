@@ -27,6 +27,7 @@ An intelligent Chrome extension that automatically applies your cookie preferenc
 * The extension will appear in your extensions list
 
 ## 🛠️ Project Structure
+```
 smart-cookie-selector/
 ├── src/
 │   ├── manifest.json         # Extension manifest
@@ -60,6 +61,7 @@ smart-cookie-selector/
 ├── README.md                 # This file
 ├── LICENSE                   # License file
 └── CHANGELOG.md             # Version history
+```
 
 ## 🎯 How It Works
 
